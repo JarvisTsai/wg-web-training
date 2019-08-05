@@ -2,6 +2,7 @@
     <div class="navigation">
         <h1>Wisdom Garden Front End Training</h1>
         <router-link to="/page-view">PageView</router-link>
+        <router-link to="/heat-map">HeatMap</router-link>
     </div>
 </template>
 
